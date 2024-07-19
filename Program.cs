@@ -174,15 +174,37 @@ namespace ManoPrograma
         //    }
         //}
 
+        //13 uzduotis
+
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Ivesk indekso numeri: ");
+        //    int index = int.Parse(Console.ReadLine());
+        //    int[] masyvas = { 1, 2, 3, 4, 5 };
+        //    ArYraMasyvas(masyvas, index);
+        //}
+        //public static void ArYraMasyvas(int[] m, int i)
+        //{
+        //    {
+        //        if (i <= m.Length)
+        //        {
+        //            Console.WriteLine("Toks indeksas yra");
+
+        //        }
+        //        else
+        //        {
+        //            Console.WriteLine("Tokio indekso nera");
+        //        }
+//        //    }
 
 
 
 
+//        }
 
-    }
 
-
-}
+//    }
+//}
 
 
 
